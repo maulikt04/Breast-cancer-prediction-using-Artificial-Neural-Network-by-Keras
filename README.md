@@ -5,6 +5,11 @@ Downstream of Deep Learning
 # Description of the dataset:
 Breast cancer is the most common form of cancer affecting women worldwide, accounting for 25% of all reported cancer cases. In 2015, it impacted more than 2.1 million individuals. The disease initiates when cells within the breast undergo uncontrolled growth. Typically, these cells manifest as tumors that can be detected through X-ray imaging or palpated as abnormal masses in the breast region.
 
+# Structure of ANN:
+![ann](https://github.com/maulikt04/Breast-cancer-prediction-using-Artificial-Neural-Network-by-Keras/assets/123557248/151f14eb-742a-4f12-afa1-1496c74b4492)
+
+
+
 
 
 # Objectives:
